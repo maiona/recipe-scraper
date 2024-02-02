@@ -7,13 +7,19 @@ import {
   TextField,
   Typography,
 } from "@mui/material";
+import { useAppDispatch, useAppSelector } from "../store/hooks";
+import { searchYoutube } from "../store/reducers/searchYoutube";
+import { changeSearchTerm, clearChannels } from '../store';
 
 export default function VideoFinder() {
-  const [searchTerm, setSearchTerm] = useState<string>("");
+  
+  const searchTerm = useAppSelector((state) => state.recipeFinder.searchTerm);
 
-  const onVideoChange = (e: any) => setSearchTerm(e.target.value);
+  const dispatch = useAppDispatch();
+
   const btnCLick = (): void => {
-    console.log(`TODO: Fire YT API to search ${searchTerm}`);
+    dispatch(clearChannels());
+    dispatch(searchYoutube(false));
   };
 
   return (
@@ -31,7 +37,7 @@ export default function VideoFinder() {
               label="Query"
               placeholder="Enter a term to search on YouTube..."
               value={searchTerm}
-              onChange={onVideoChange}
+              onChange={(e) => dispatch(changeSearchTerm(e.target.value))}
               size="small"
               fullWidth
             />
