@@ -1,0 +1,319 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "BSBpInZvtT_DTmJMdVQQfJ7s7RM",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 12,
+    "resultsPerPage": 11
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I3xXhYCOhUKXL_atKL3lgbITFfk",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCEK-PgJHg4Jupi7k7re0qGg"
+      },
+      "snippet": {
+        "publishedAt": "2011-03-03T22:05:01Z",
+        "channelId": "UCEK-PgJHg4Jupi7k7re0qGg",
+        "title": "Anders Erickson",
+        "description": "Hi I'm Anders and I worked professionally behind bars for 20 years. I've decided to combine my passion for making good drinks ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/QSoNia3XmGfPc3pFh8RE9BSPl7nOPpqbHcfyv3e2Qbn1pCPw-SM7Bw4F-bKCQVspPtNv_2CFkg=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/QSoNia3XmGfPc3pFh8RE9BSPl7nOPpqbHcfyv3e2Qbn1pCPw-SM7Bw4F-bKCQVspPtNv_2CFkg=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/QSoNia3XmGfPc3pFh8RE9BSPl7nOPpqbHcfyv3e2Qbn1pCPw-SM7Bw4F-bKCQVspPtNv_2CFkg=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "Anders Erickson",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-03-03T22:05:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ngT9B8AKmRnJopTXh9Tir-8wnqo",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCSccL0iKLCJvQTctR9oisdw"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-01T17:42:11Z",
+        "channelId": "UCSccL0iKLCJvQTctR9oisdw",
+        "title": "Anders Erickson",
+        "description": "Contact- (541)417-1040 Email- ericksoneanders@gmail.com.",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/GxK2kqajMgsiiWPhDwlpfQL4oeq7jta2aiwinzRIHYi7UYTEJiLRAlsmLxEYP5e_0gAJmOwngA=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/GxK2kqajMgsiiWPhDwlpfQL4oeq7jta2aiwinzRIHYi7UYTEJiLRAlsmLxEYP5e_0gAJmOwngA=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/GxK2kqajMgsiiWPhDwlpfQL4oeq7jta2aiwinzRIHYi7UYTEJiLRAlsmLxEYP5e_0gAJmOwngA=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "Anders Erickson",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-01T17:42:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fmmk35Yz_2iSG0hRafZDvgaI0NA",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCtDhAP69lHR4ZoImBriZ2qA"
+      },
+      "snippet": {
+        "publishedAt": "2011-12-11T13:28:09Z",
+        "channelId": "UCtDhAP69lHR4ZoImBriZ2qA",
+        "title": "Anders Erickson",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZT0GOD9weRF-q0rOd1-jcU5C-FFcfwY6KIeYA=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZT0GOD9weRF-q0rOd1-jcU5C-FFcfwY6KIeYA=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZT0GOD9weRF-q0rOd1-jcU5C-FFcfwY6KIeYA=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "Anders Erickson",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-12-11T13:28:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zKr0hY-c13aW1MgSYNtLT61TuaM",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCLZNZXCXeSp33ilx37fssHA"
+      },
+      "snippet": {
+        "publishedAt": "2015-01-01T23:39:14Z",
+        "channelId": "UCLZNZXCXeSp33ilx37fssHA",
+        "title": "Anders Erickson",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZSGU-yc4XG3gTv8nEtEMQZadkPhILZpVigK=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZSGU-yc4XG3gTv8nEtEMQZadkPhILZpVigK=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZSGU-yc4XG3gTv8nEtEMQZadkPhILZpVigK=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "Anders Erickson",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-01-01T23:39:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dEw7CX0eRd9DjZOjTuD21UbILpQ",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCClhnGS23ZMhB0Nfvmm7i9g"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-12T01:47:14Z",
+        "channelId": "UCClhnGS23ZMhB0Nfvmm7i9g",
+        "title": "Anders Erickson",
+        "description": "Enjoy my 432 hz music! It could change your life.",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZTBgLpeWTxhVsFIOqNmPF70tHJm7h3ZpdeeOkTP=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZTBgLpeWTxhVsFIOqNmPF70tHJm7h3ZpdeeOkTP=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZTBgLpeWTxhVsFIOqNmPF70tHJm7h3ZpdeeOkTP=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "Anders Erickson",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-12T01:47:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gaPJi7zjHCWc6DCpbcCER8RWabc",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCxDsW79QMVtQRCjUvTkcgZg"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-27T16:06:54Z",
+        "channelId": "UCxDsW79QMVtQRCjUvTkcgZg",
+        "title": "Anders Erickson Video",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZRG5nohprnPue6ank4ofZGu7E-QRnsackIWsA=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZRG5nohprnPue6ank4ofZGu7E-QRnsackIWsA=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZRG5nohprnPue6ank4ofZGu7E-QRnsackIWsA=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "Anders Erickson Video",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-27T16:06:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C4-_JdPToz6ZttYw7-wA5ENECNI",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCg7ldighNSeFN7iUyRySL7g"
+      },
+      "snippet": {
+        "publishedAt": "2015-05-21T20:07:27Z",
+        "channelId": "UCg7ldighNSeFN7iUyRySL7g",
+        "title": "Anders Erickson",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZREZMHZex3qTfqWmIQq48FlWasyLBE8cBNbF4FJ1g=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZREZMHZex3qTfqWmIQq48FlWasyLBE8cBNbF4FJ1g=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZREZMHZex3qTfqWmIQq48FlWasyLBE8cBNbF4FJ1g=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "Anders Erickson",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-05-21T20:07:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MrWt1J4O38MFvMG27Zt3Pfg4PGs",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCGsDxGxOQ1SGpR0UiSvwAxg"
+      },
+      "snippet": {
+        "publishedAt": "2012-10-04T01:31:36Z",
+        "channelId": "UCGsDxGxOQ1SGpR0UiSvwAxg",
+        "title": "Anders Erickson",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZR0k4XEGpk5HPELHqVeuGv2Th_LGtAnw33B_g=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZR0k4XEGpk5HPELHqVeuGv2Th_LGtAnw33B_g=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZR0k4XEGpk5HPELHqVeuGv2Th_LGtAnw33B_g=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "Anders Erickson",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-10-04T01:31:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "33PcBVL-hluCgTsJoookj3rX75k",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UC3MVxGJUTNn1ZzKfXASHDXw"
+      },
+      "snippet": {
+        "publishedAt": "2013-04-28T21:03:51Z",
+        "channelId": "UC3MVxGJUTNn1ZzKfXASHDXw",
+        "title": "SweatpantSommelier",
+        "description": "Hey hey, i don't really know what to put here yet. Ill get back to it later.",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZTepAp1u0LPeDvThnfNMzdf254PEapRO2YFib5k=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZTepAp1u0LPeDvThnfNMzdf254PEapRO2YFib5k=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZTepAp1u0LPeDvThnfNMzdf254PEapRO2YFib5k=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "SweatpantSommelier",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-04-28T21:03:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "59po8Fgj-pOuP6907c85u5oaLBc",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCZA2Ei8_JG7SLeSlbUflMQg"
+      },
+      "snippet": {
+        "publishedAt": "2007-04-14T18:42:09Z",
+        "channelId": "UCZA2Ei8_JG7SLeSlbUflMQg",
+        "title": "Joe Spino",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZRDNpiIe98HkgkamCCBj1ysXed9pDFtKR0MNNUK=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZRDNpiIe98HkgkamCCBj1ysXed9pDFtKR0MNNUK=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZRDNpiIe98HkgkamCCBj1ysXed9pDFtKR0MNNUK=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "Joe Spino",
+        "liveBroadcastContent": "none",
+        "publishTime": "2007-04-14T18:42:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t_qWc7-YA7AxbofmiATlDo9_xH0",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCgnF8e3pUIkPeq8HkBAR6fw"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-02T10:40:06Z",
+        "channelId": "UCgnF8e3pUIkPeq8HkBAR6fw",
+        "title": "Perspective That Matters",
+        "description": "The Other Side of the Story.",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZTqRdZhKABg3FrAcmNgQQ1_kwtJx3dW7IRmRWsl=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZTqRdZhKABg3FrAcmNgQQ1_kwtJx3dW7IRmRWsl=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZTqRdZhKABg3FrAcmNgQQ1_kwtJx3dW7IRmRWsl=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "Perspective That Matters",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-02T10:40:06Z"
+      }
+    }
+  ]
+}
